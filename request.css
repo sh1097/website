@@ -1,0 +1,193 @@
+.nav-link{
+	font-size: 21px;
+	color:black!important;
+}
+#image1 {
+background-image:url(request-quote-right-turn-painting.jpg) !important;
+height:900px;
+width: auto;
+background-repeat: no-repeat;
+background-size: cover;
+position: static;
+box-sizing: border-box;}
+.p1{
+opacity: 0.8;
+background-color: black;
+background-blend-mode: overlay;
+width: auto;
+height: 900px;
+}
+
+.p3{
+	padding-top: 40%!important;
+	text-align: center;
+	font-size: 50px;
+	font-weight: 700;
+	font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+	
+	color: #ffffff !important;
+
+}
+
+.m11{
+	max-width: 1080px !important;
+	padding: 40px !important;
+	position: relative;
+width: 80%;
+max-width: 1080px;
+margin: auto;
+}
+h2{
+	text-align: center;
+	font-family: 'Arial',Helvetica,Arial,Lucida,sans-serif;
+font-weight: 700;
+font-size: 30px;
+color: #000000 !important;
+padding-bottom: 10px;
+}
+
+.t1{
+	
+margin-top: -1.5%;
+text-align:center;
+}
+.t2{
+	color: #ebb518 !important;
+border-color: #ebb518;
+display: inline-block;
+margin-right: 25%;
+font-family: inherit;
+cursor: pointer;
+position: relative;
+padding: 0.3em 1em;
+border: 2px solid;
+border-radius: 3px;
+background-color: transparent;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.7em !important;
+transition: all 0.2s;
+}
+
+.l3{
+color:#ed9410;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+font-size: 19px;
+}
+
+.l4{
+	margin-left: 90px;
+	font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+}
+
+.k3{
+	text-decoration: center;
+	background-color: orange;
+	margin-left: 35%;
+
+}
+
+.l5{
+  padding-top: 9px;
+	margin-left: 30px;
+	color:#ed9410;
+    font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+        font-size: 18px;
+
+
+}
+.l6{
+	text-decoration: none;
+	color:white;
+	text-align: center !important;
+
+	font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+	margin-left: 30px;
+	
+ }
+ .e1{
+ 	font-size: 18px;
+ 	vertical-align: baseline;
+ 	padding-top: 10px;
+ }
+.e2{
+
+  padding-top: 28px;
+   
+	color:#ed9410;
+    font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+        font-size: 21px;
+
+
+}
+.l7
+{
+	color:white;
+	text-align: center !important;
+
+
+	font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+	font-size: 21px;
+	
+ 
+
+}
+.l2{
+background-color: rgb(64,64,64);
+color: #ffffff;
+height:auto;
+width:auto;
+} #f1{
+	background-color: #000000;
+	padding: 15px 0 5px;
+	height:auto;
+	color:white;
+}
+.c5{
+	width: 80%;
+max-width: 1080px;
+margin: auto;
+}
+
+.f2{
+	color: #ffffff;
+	float: none;
+text-align: center;
+padding-bottom: 10px;
+}
+.wrapper{
+	position: absolute;
+	z-index: 9999;
+	overflow: hidden;
+	width:100%;
+	text-align: center;
+}
+#navbar{
+
+
+			position: relative;
+			z-index: 9999;
+
+
+
+
+		border-top: 2px  solid #ebb518!important;    width: 60%;
+			    text-align: center;
+			    border-top: 2px solid #ebb518 !important;
+			    margin-top: 115px;
+			    background-color: white;
+
+}
+
+a:hover{
+
+
+  color:yellow;
+}
+
+.active{
+	color:#ebb518;
+}

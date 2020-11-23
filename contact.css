@@ -1,0 +1,191 @@
+.nav-link{
+font-size: 21px;
+color:black!important;
+}
+#image1 {
+background-image:url('contact-right-turn-painting.jpg')  !important;
+height:900px;
+width: auto;
+background-repeat: no-repeat;
+background-size: cover;
+position: static;
+box-sizing: border-box;}
+.p1{
+opacity: 0.8;
+background-color: black;
+background-blend-mode: overlay;
+width: auto;
+height: 900px;
+}
+.p3{
+padding-top: 200px;
+text-align: center;
+font-size: 40px;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+color: #ffffff !important;
+}
+.z2{
+border-bottom: 2px solid white;
+width:80px;
+}
+.v1{
+position: relative;
+}
+.t1{
+float: right;
+margin-top: -1.5%;
+text-align: right;
+}
+button {
+text-align: center;
+font-size: 20px;
+height:60px;
+width: 100px;
+transition: all 0.5s;
+cursor: pointer;
+background-color: rgba(0, 0, 0, 0.05);
+border: 2px solid white;
+color: #ebb518 !important;
+border-color: #ebb518;
+display: inline-block;
+margin-left: 5%!important;
+font-family: inherit;
+cursor: pointer;
+position: relative;
+border: 2px solid;
+border-radius: 3px;
+background-color: transparent;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.button span {
+cursor: pointer;
+display: inline-block;
+position: relative;
+transition: 0.5s;
+}
+.button span:after {
+content: '\00bb';
+position: absolute;
+opacity: 0;
+top: 0;
+right: -20px;
+transition: 0.5s;
+}
+.button:hover span {
+padding-right: 25px;
+}
+.button:hover span:after {
+opacity: 1;
+right: 0;
+}
+.b1{
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+   
+    color: #333;
+    font-size: 25px;
+
+}
+.l3{
+color:#ed9410;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+font-size: 19px;
+}
+.l4{
+margin-left: 90px;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+}
+.k3{
+text-decoration: center;
+background-color: orange;
+margin-left: 35%;
+}
+.l5{
+padding-top: 9px;
+margin-left: 30px;
+color:#ed9410;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+font-size: 18px;
+}
+.l6{
+text-decoration: none;
+color:white;
+text-align: center !important;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+margin-left: 45px;
+}
+.e1{
+font-size: 18px;
+vertical-align: baseline;
+padding-top: 10px;
+}
+.e2{
+padding-top: 28px;
+color:#ed9410;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+font-size: 21px;
+}
+.l7
+{
+color:white;
+text-align: center !important;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+font-size: 21px;
+}
+.l2{
+background-color: rgb(64,64,64);
+color: #ffffff;
+height:auto;
+width:auto;
+}
+#f1{
+background-color: #000000;
+padding: 15px 0 5px;
+height:auto;
+color:white;
+}
+.c5{
+width: 80%;
+max-width: 1080px;
+margin: auto;
+}
+.f2{
+color: #ffffff;
+float: none;
+text-align: center;
+padding-bottom: 10px;
+}
+.wrapper{
+	position: absolute;
+	z-index: 9999;
+	overflow: hidden;
+	width:100%;
+	text-align: center;
+}
+#navbar{
+
+
+		position: relative;
+		z-index: 9999;
+
+
+
+
+		border-top: 2px  solid #ebb518!important;    width: 60%;
+		    text-align: center;
+		    border-top: 2px solid #ebb518 !important;
+		    margin-top: 115px;
+		    background-color: white;
+
+}
+
+a:hover{
+
+
+  color:yellow !important;
+}
+.active{
+	color:#ebb518;
+}
+

@@ -1,0 +1,361 @@
+.nav-link{
+	font-size: 21px;
+	color:black!important;
+}
+
+.b1{
+	text-decoration: none;
+	font-size: 10px;
+	font-weight: 500;
+	color:black;
+	letter-spacing: 2px;
+	font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+
+
+}
+
+.image1 {
+	background-image: url('banner.jpg') ;
+	height:950px;
+	width: auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: static;
+	
+
+
+box-sizing: border-box;
+
+   
+  
+}
+
+
+.centered{
+ 
+    margin-left: 8% !important;
+    margin-right:30% !important;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+       opacity: 0.5;
+
+
+
+	
+}
+.card-img-top{
+	display: block;
+margin-right: 10%;
+margin-left: 25%;
+margin-top: 10%;
+margin-bottom: 10%;
+height: 40%;
+width:30%;
+
+}
+
+img {
+    max-width: 60%;
+    height: auto;
+
+
+ 
+}
+h2{
+	font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+	color: #000000 !important;
+	padding-bottom:10px;
+	font-weight: 500;
+line-height: 1em;
+}
+ h3{
+ 	font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+ 	
+color: #333;
+font-size: 15px;
+text-align: center;
+
+ }
+
+ h1{
+ 	padding-top: 40px;
+ 	text-align: center;
+ 	
+ 	font-size: 40px;
+color: #e09e0f !important;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+
+ }
+ #c1 {
+ background-color: #f6f6f6 !important;}
+
+ .d1{
+
+
+ font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+
+
+text-shadow: 0.1em 0.1em 0.1em rgba(130,117,0,0.38) !important;
+text-align: center;
+padding-bottom: 5px;
+color: #000000 !important;
+font-weight: 500;
+line-height: 1em;
+
+
+ }
+
+ #image2{
+background-blend-mode: overlay;
+background-image: url('wall.jpg');
+
+    background-color: rgba(0,0,0,0.52) !important;
+        background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+
+}
+.container {
+	padding-top: 40px;
+}
+
+#image3{
+background-blend-mode: overlay;
+background-image: url('brush.jpg');
+background-color: rgba(0,0,0,0.52) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  height: 50vh;
+
+}
+
+#image4{
+	background-blend-mode: overlay;
+background-image: url('full-home-painting.jpg');
+
+    background-color: rgba(0,0,0,0.52) !important;
+        background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   height: 50vh;
+
+
+
+}
+
+
+#image5{
+background-blend-mode: overlay;
+background-image: url('Wall-Prepping-home-img.jpg');
+background-color: rgba(0,0,0,0.52) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ 
+ height: 50vh;
+
+
+  
+
+}
+
+#image6{
+background-blend-mode: overlay;
+background-image: url('drywall-repair.jpg');
+background-color: rgba(0,0,0,0.52) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  
+ height: 50vh;
+
+
+}
+
+#image7{
+background-blend-mode: overlay;
+background-image: url('Stain-sealant-right-turn-painting.jpg');
+background-color: rgba(0,0,0,0.52) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  height: 50vh;
+
+
+
+}
+
+
+
+
+.etb{
+	 
+    color: #ebb518 !important;
+    font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+    font-size: 25px;
+
+    text-align: center;
+}
+
+.m1{
+	   
+	
+max-width:40%;
+height: auto;
+padding: 10%;
+	   border:1px solid yellow;
+	   vertical-align: baseline;
+	   margin-left: 30%;
+	   margin-top: 10%;
+	
+	 
+}
+.parallax{
+
+
+
+background-image: url("cta-home.jpg");
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 20px;
+}
+
+
+.etb3{
+	display: flex;
+    justify-content: center;
+    position: relative;
+z-index: 3;
+width: 80%;
+max-width: 1080px;
+margin-right: auto;
+margin-left: auto;
+text-align: center;
+    font-family: 'Raleway',Helvetica,Arial,Lucida,sans-serif;
+}
+
+.header1{
+	    align-self: center;
+
+}
+.header2{
+		width: 80%;
+max-width: 800px;
+margin: 20px auto;
+padding: 10px;
+text-align: center;
+}
+.etb4{
+	    font-size: 28px;
+    color: #000000 !important;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+
+}
+.etb1{
+	padding-top: 50px;
+	animation-timing-function: linear;
+}
+
+.z1{
+	    text-align: center;
+             font-size: 40px;
+    color: #000000 !important;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+padding-bottom: 10px;
+}
+.sty{
+	height:250px;background-color:orange;padding-top: 30px;
+	text-align: center;
+	font-size: 28px;
+color: #000000 !important;
+font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
+
+
+}
+.button {
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: black;
+  text-align: center;
+  font-size: 20px;
+
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+ background-color: rgba(0, 0, 0, 0.05);
+ border: 2px solid black;
+  margin-top: 10px;
+
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.wrapper{
+	position: absolute;
+	z-index: 9999;
+	overflow: hidden;
+	width:100%;
+	text-align: center;
+}
+#navbar{
+
+
+		position: relative;
+		z-index: 9999;
+
+
+
+
+		border-top: 2px  solid #ebb518!important;    width: 60%;
+		    text-align: center;
+		    border-top: 2px solid #ebb518 !important;
+		    margin-top: 115px;
+		    background-color: white;
+
+}
+
+a:hover{
+
+
+  color:yellow;
+}
+
+a.active{
+	color:#ebb518;
+}
+
+
+
